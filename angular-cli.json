@@ -24,7 +24,6 @@
       ],
       "scripts": [  "../node_modules/abi-decoder/dist/abi-decoder.js",
 		"../node_modules/wallet.js",
-    "../controller.js",
 		"../node_modules/async.js",
 		"../node_modules/hooked_web3_provider.js",
 		"../node_modules/lightwallet.min.js",
